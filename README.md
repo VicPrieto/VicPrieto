@@ -1,6 +1,6 @@
 ### Hi there!
 
-![Alt Text](https://media2.giphy.com/media/RbVOveSAHkk2A/giphy.gif)
+![Alt Text](https://media1.giphy.com/media/SBOAoIan6i1mU/giphy.gif)
 
 #### 🌱 I’m currently learning:
   - Android Development (Kotlin)
